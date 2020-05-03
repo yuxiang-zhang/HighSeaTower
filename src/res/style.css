@@ -1,0 +1,9 @@
+.root {
+    -fx-background-color: rgb(0, 0, 139);
+}
+
+#score {
+    -fx-font-size: 36px;
+    -fx-text-alignment: center;
+    -fx-fill: white;
+}
